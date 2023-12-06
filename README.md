@@ -18,4 +18,12 @@ The BlendGen Framework is an innovative system designed for Blender enthusiasts,
 - **Educators and Researchers**: Those in academic or research settings exploring computational design and procedural generation.
 
 ## Getting Started
-...
+
+
+## Using a custom GPT, Blender Buddy to design components
+With a custom GPT I setup you can chat with an AI to design any custom components required for your project
+[Try Blender Buddy](https://chat.openai.com/g/g-cS9uI1D7M-blender-buddy)
+
+## Accelerating and Improving Design with Shared Modules
+The BlendGen Framework thrives on community collaboration. By sharing components like the Configurable Screw Object, users can significantly enhance their design workflow. These shared modules not only streamline project development but also foster a rich exchange of ideas and techniques within the community.
+
